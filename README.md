@@ -18,6 +18,11 @@ Hi, I’m Amey 👋  <br>I’m a developer who enjoys building clean, efficient,
 ### LeetCode ⚔️
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Amey_Bobade?theme=dark&font=Karma)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
