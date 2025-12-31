@@ -12,7 +12,11 @@ Hi, I’m Amey 👋  <br>I’m a developer who enjoys building clean, efficient,
 ![](https://nirzak-streak-stats.vercel.app/?user=Amey-0806&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amey-0806&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![Snake animation](https://github.com/Amey-0806/Amey-0806/blob/output/github-contribution-grid-snake.svg)
+### 📈 GitHub Stats
+![Amey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amey-0806&show_icons=true&theme=radical)
+
+### LeetCode ⚔️
+![LeetCode Stats](https://leetcard.jacoblin.cool/Amey_Bobade?theme=dark&font=Karma)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
